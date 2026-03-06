@@ -17,7 +17,7 @@ Tu nájdete všetko potrebné, čo sme si dnes prechádzali:
 
     VZOR: Odovzdávací protokol (PDF)
 
-    Šablóna pre popisy nehnuteľností (MD)
+    VROR: Template_zaznam maklera.md (MD)
 
 🚀 Budúcnosť
 
